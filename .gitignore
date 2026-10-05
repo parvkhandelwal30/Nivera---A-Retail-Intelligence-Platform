@@ -1,0 +1,60 @@
+# Environment / Secrets
+.env
+.env.*
+!.env.example
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build / Frontend
+dist/
+build/
+.vite/
+coverage/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large datasets
+/sales_train_validation.csv
+/sell_prices.csv
+
+# Large trained model - handled separately with Git LFS
+/ml/models/final_stockout_model.joblib
+
+# Large external datasets
+/sales_train_validation.csv
+/sell_prices.csv
+/ml/data/raw/
+/ml/data/processed/
+
+# Large trained ML model
+/ml/models/final_stockout_model.joblib

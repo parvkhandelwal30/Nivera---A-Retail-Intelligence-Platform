@@ -1,0 +1,28 @@
+{
+    "model_type": "RandomForestRegressor",
+    "model_version": "1.0",
+    "features": [
+        "lag_1",
+        "lag_2",
+        "lag_3",
+        "lag_4",
+        "rolling_mean_3",
+        "rolling_mean_4",
+        "rolling_mean_8",
+        "rolling_std_4",
+        "week_number",
+        "month",
+        "quarter",
+        "time_index"
+    ],
+    "forecast_horizons": {
+        "3_month": 13,
+        "6_month": 26,
+        "9_month": 39
+    },
+    "training_rows": 3348,
+    "number_of_products": 108,
+    "historical_weeks": 39,
+    "test_mae": 1.0124169843233402,
+    "test_rmse": 1.8334132833937598
+}

@@ -1,0 +1,109 @@
+productId,productName,sku,category,forecast_week,forecast_demand,forecast_units
+6abd8e4ca19535d75c1ab8a5,Remote Control Car,TOY-RC-003,Toys & Games,2026-10-05,8.18,9
+6abd8e4ca19535d75c1ab846,Portable Bluetooth Speaker,ELEC-SPK-004,Electronics,2026-10-05,7.17,8
+6abd8e4ca19535d75c1ab88e,Vitamin C Serum,BEAU-SR-004,Beauty & Personal Care,2026-10-05,6.73,7
+6abd8e4ca19535d75c1ab874,Football (Size 5),SPRT-FB-005,Sports & Fitness,2026-10-05,6.09,7
+6abd8e4ca19535d75c1ab862,Electric Kettle (1.5L),HOME-KT-002,Home & Kitchen,2026-10-05,5.06,6
+6abd8e4ca19535d75c1ab855,Cotton Hoodie,APP-HD-004,Apparel,2026-10-05,4.67,5
+6abd8e4ca19535d75c1ab893,Hair Styling Wax,BEAU-HW-009,Beauty & Personal Care,2026-10-05,3.71,4
+6abd8e4ca19535d75c1ab881,Atomic Focus,BOOK-SH-003,Books,2026-10-05,3.38,4
+6abd8e4ca19535d75c1ab85d,Men's Formal Trousers,APP-FT-012,Apparel,2026-10-05,3.38,4
+6abd8e4ca19535d75c1ab84b,Portable SSD 1TB,ELEC-SSD-009,Electronics,2026-10-05,3.24,4
+6abd8e4ca19535d75c1ab86f,Foldable Laundry Basket,HOME-LB-015,Home & Kitchen,2026-10-05,3.24,4
+6abd8e4ca19535d75c1ab850,Wireless Charging Pad,ELEC-WC-014,Electronics,2026-10-05,3.07,4
+6abd8e4ca19535d75c1ab886,The Psychology of Money,BOOK-FIN-008,Books,2026-10-05,3.07,4
+6abd8e4ca19535d75c1ab898,Cold-Pressed Olive Oil (1L),GROC-OL-002,Groceries,2026-10-05,2.93,3
+6abd8e4ca19535d75c1ab8aa,Kids Art Kit,TOY-AK-008,Toys & Games,2026-10-05,2.48,3
+6abd8e4ca19535d75c1ab86a,Cotton Bedsheet Set,HOME-BS-010,Home & Kitchen,2026-10-05,2.07,3
+6abd8e4ca19535d75c1ab89d,Green Tea Bags,GROC-GT-007,Groceries,2026-10-05,2.07,3
+6abd8e4ca19535d75c1ab879,Foam Roller,SPRT-FR-010,Sports & Fitness,2026-10-05,1.86,2
+6abd8e4ca19535d75c1ab858,Women's Oversized T-Shirt,APP-TS-007,Apparel,2026-10-05,1.82,2
+6abd8e4ca19535d75c1ab8a0,Mixed Dry Fruits (500g),GROC-DF-010,Groceries,2026-10-05,1.07,2
+6abd8e4ca19535d75c1ab843,Wireless Mechanical Keyboard,ELEC-KB-001,Electronics,2026-10-05,1.07,2
+6abd8e4ca19535d75c1ab867,Glass Food Storage Set,HOME-FS-007,Home & Kitchen,2026-10-05,1.07,2
+6abd8e4ca19535d75c1ab87c,Football Goal Net,SPRT-GN-013,Sports & Fitness,2026-10-05,1.07,2
+6abd8e4ca19535d75c1ab88b,Gentle Foaming Face Wash,BEAU-FW-001,Beauty & Personal Care,2026-10-05,1.07,2
+6abd8e4ca19535d75c1ab844,Noise Cancelling Headphones,ELEC-HP-002,Electronics,2026-10-05,0.45,1
+6abd8e4ca19535d75c1ab89e,Peanut Butter (1kg),GROC-PB-008,Groceries,2026-10-05,0.43,1
+6abd8e4ca19535d75c1ab84c,USB-C Hub 7-in-1,ELEC-HUB-010,Electronics,2026-10-05,0.42,1
+6abd8e4ca19535d75c1ab85e,Cotton Baseball Cap,APP-CP-013,Apparel,2026-10-05,0.39,1
+6abd8e4ca19535d75c1ab8a6,Wooden Puzzle Cube Set,TOY-PZ-004,Toys & Games,2026-10-05,0.39,1
+6abd8e4ca19535d75c1ab894,Lip Balm Pack,BEAU-LB-010,Beauty & Personal Care,2026-10-05,0.34,1
+6abd8e4ca19535d75c1ab877,Skipping Rope,SPRT-SR-008,Sports & Fitness,2026-10-05,0.32,1
+6abd8e4ca19535d75c1ab8a8,Magnetic Building Tiles,TOY-MT-006,Toys & Games,2026-10-05,0.32,1
+6abd8e4ca19535d75c1ab882,The Startup Playbook,BOOK-BIZ-004,Books,2026-10-05,0.18,1
+6abd8e4ca19535d75c1ab87f,The Silent Orchard,BOOK-FIC-001,Books,2026-10-05,0.15,1
+6abd8e4ca19535d75c1ab853,Women's Running Shoes,APP-SH-002,Apparel,2026-10-05,0.11,1
+6abd8e4ca19535d75c1ab865,Dinner Set (16-Piece),HOME-DN-005,Home & Kitchen,2026-10-05,0.08,1
+6abd8e4ca19535d75c1ab8ab,Mini Building Blocks,TOY-MB-009,Toys & Games,2026-10-05,0.08,1
+6abd8e4ca19535d75c1ab870,Yoga Mat (6mm),SPRT-YM-001,Sports & Fitness,2026-10-05,0.08,1
+6abd8e4ca19535d75c1ab889,Machine Learning Simplified,BOOK-ML-011,Books,2026-10-05,0.07,1
+6abd8e4ca19535d75c1ab88f,Moisturizing Face Cream,BEAU-MC-005,Beauty & Personal Care,2026-10-05,0.06,1
+6abd8e4ca19535d75c1ab87a,Running Cap,SPRT-RC-011,Sports & Fitness,2026-10-05,0.06,1
+6abd8e4ca19535d75c1ab86d,Ceramic Coffee Mug Set,HOME-MG-013,Home & Kitchen,2026-10-05,0.05,1
+6abd8e4ca19535d75c1ab859,Men's Polo T-Shirt,APP-PO-008,Apparel,2026-10-05,0.05,1
+6abd8e4ca19535d75c1ab868,Stainless Steel Lunch Box,HOME-LB-008,Home & Kitchen,2026-10-05,0.05,1
+6abd8e4ca19535d75c1ab86b,LED Ceiling Light,HOME-LT-011,Home & Kitchen,2026-10-05,0.05,1
+6abd8e4ca19535d75c1ab849,1080p USB Webcam,ELEC-WC-007,Electronics,2026-10-05,0.05,1
+6abd8e4ca19535d75c1ab891,Beard Grooming Oil,BEAU-BO-007,Beauty & Personal Care,2026-10-05,0.05,1
+6abd8e4ca19535d75c1ab89b,Basmati Rice (5kg),GROC-RC-005,Groceries,2026-10-05,0.05,1
+6abd8e4ca19535d75c1ab887,Introduction to Algorithms,BOOK-ALG-009,Books,2026-10-05,0.05,1
+6abd8e4ca19535d75c1ab88c,Argan Oil Shampoo,BEAU-SH-002,Beauty & Personal Care,2026-10-05,0.05,1
+6abd8e4ca19535d75c1ab851,Smart Plug,ELEC-SP-015,Electronics,2026-10-05,0.05,1
+6abd8e4ca19535d75c1ab856,Ankle Socks (3-Pack),APP-SK-005,Apparel,2026-10-05,0.05,1
+6abd8e4ca19535d75c1ab8a1,Oats (1kg),GROC-OT-011,Groceries,2026-10-05,0.04,1
+6abd8e4ca19535d75c1ab87d,Fitness Resistance Tube,SPRT-RT-014,Sports & Fitness,2026-10-05,0.04,1
+6abd8e4ca19535d75c1ab8a3,Wooden Building Blocks Set,TOY-BLK-001,Toys & Games,2026-10-05,0.04,1
+6abd8e4ca19535d75c1ab884,Data Science Fundamentals,BOOK-DS-006,Books,2026-10-05,0.04,1
+6abd8e4ca19535d75c1ab872,Insulated Water Bottle (1L),SPRT-WB-003,Sports & Fitness,2026-10-05,0.04,1
+6abd8e4ca19535d75c1ab85b,Unisex Track Pants,APP-TP-010,Apparel,2026-10-05,0.03,1
+6abd8e4ca19535d75c1ab883,Python for Beginners,BOOK-TECH-005,Books,2026-10-05,0.03,1
+6abd8e4ca19535d75c1ab8a2,Pasta (500g),GROC-PA-012,Groceries,2026-10-05,0.03,1
+6abd8e4ca19535d75c1ab847,Fitness Smart Watch,ELEC-SW-005,Electronics,2026-10-05,0.03,1
+6abd8e4ca19535d75c1ab8ad,Remote Control Helicopter,TOY-RH-011,Toys & Games,2026-10-05,0.02,1
+6abd8e4ca19535d75c1ab85c,Women's Winter Jacket,APP-WJ-011,Apparel,2026-10-05,0.02,1
+6abd8e4ca19535d75c1ab860,Athletic Training Shorts,APP-SH-015,Apparel,2026-10-05,0.02,1
+6abd8e4ca19535d75c1ab84e,Smart LED Desk Lamp,ELEC-LAMP-012,Electronics,2026-10-05,0.01,1
+6abd8e4ca19535d75c1ab84d,Laptop Stand,ELEC-LS-011,Electronics,2026-10-05,0.01,1
+6abd8e4ca19535d75c1ab8a7,Classic Chess Set,TOY-CH-005,Toys & Games,2026-10-05,0.01,1
+6abd8e4ca19535d75c1ab896,Aloe Vera Gel,BEAU-AG-012,Beauty & Personal Care,2026-10-05,0.01,1
+6abd8e4ca19535d75c1ab875,Cricket Bat,SPRT-CB-006,Sports & Fitness,2026-10-05,0.01,1
+6abd8e4ca19535d75c1ab848,Wireless Gaming Mouse,ELEC-MS-006,Electronics,2026-10-05,0.01,1
+6abd8e4ca19535d75c1ab863,Memory Foam Pillow,HOME-PL-003,Home & Kitchen,2026-10-05,0.01,1
+6abd8e4ca19535d75c1ab852,Men's Cotton Casual Shirt,APP-SH-001,Apparel,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab845,USB-C Fast Charger (65W),ELEC-CH-003,Electronics,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab84a,Bluetooth Neckband,ELEC-NB-008,Electronics,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab85a,Women's Denim Jeans,APP-WJ-009,Apparel,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab84f,Power Bank 20000mAh,ELEC-PB-013,Electronics,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab86e,Kitchen Knife Set,HOME-KN-014,Home & Kitchen,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab86c,Vacuum Storage Bags,HOME-VB-012,Home & Kitchen,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab869,Electric Rice Cooker,HOME-RC-009,Home & Kitchen,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab866,Air Fryer 4L,HOME-AF-006,Home & Kitchen,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab861,Non-Stick Cookware Set (5-Piece),HOME-CK-001,Home & Kitchen,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab85f,Women's Casual Kurta,APP-KR-014,Apparel,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab864,Handheld Stick Blender,HOME-BL-004,Home & Kitchen,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab857,Men's Slim Fit Jeans,APP-JN-006,Apparel,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab854,Denim Jacket,APP-JK-003,Apparel,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab876,Cricket Ball Pack,SPRT-CB-007,Sports & Fitness,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab871,Adjustable Dumbbell Set (10kg),SPRT-DB-002,Sports & Fitness,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab873,Resistance Bands Set,SPRT-RB-004,Sports & Fitness,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab880,Everyday Indian Cooking,BOOK-CK-002,Books,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab878,Gym Gloves,SPRT-GG-009,Sports & Fitness,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab87b,Table Tennis Paddle Set,SPRT-TT-012,Sports & Fitness,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab87e,Sports Duffel Bag,SPRT-DB-015,Sports & Fitness,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab88d,Signature Eau de Parfum,BEAU-PF-003,Beauty & Personal Care,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab88a,The Art of Productivity,BOOK-PD-012,Books,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab888,Clean Code Principles,BOOK-CC-010,Books,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab885,Modern Web Development,BOOK-WEB-007,Books,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab892,Body Wash 500ml,BEAU-BW-008,Beauty & Personal Care,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab890,Sunscreen SPF 50,BEAU-SC-006,Beauty & Personal Care,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab895,Clay Face Mask,BEAU-FM-011,Beauty & Personal Care,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab89a,Organic Honey (500g),GROC-HN-004,Groceries,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab89c,Whole Wheat Flour (5kg),GROC-WF-006,Groceries,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab897,Arabica Coffee Beans (500g),GROC-CF-001,Groceries,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab899,Multigrain Breakfast Cereal,GROC-CR-003,Groceries,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab89f,Dark Chocolate Bar,GROC-DC-009,Groceries,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab8a4,Strategy Board Game,TOY-BG-002,Toys & Games,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab8a9,Plush Teddy Bear,TOY-TB-007,Toys & Games,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab8ac,Educational Flash Cards,TOY-FC-010,Toys & Games,2026-10-05,0.0,0
+6abd8e4ca19535d75c1ab8ae,Kids Bowling Set,TOY-BW-012,Toys & Games,2026-10-05,0.0,0
