@@ -48,7 +48,6 @@ Thumbs.db
 /sell_prices.csv
 
 # Large trained model - handled separately with Git LFS
-/ml/models/final_stockout_model.joblib
 
 # Large external datasets
 /sales_train_validation.csv
@@ -57,4 +56,3 @@ Thumbs.db
 /ml/data/processed/
 
 # Large trained ML model
-/ml/models/final_stockout_model.joblib
